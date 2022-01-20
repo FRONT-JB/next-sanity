@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* base css Custom */
+  html,
+  body,
+  #__next {
+    @apply h-full;
+  }
+}
