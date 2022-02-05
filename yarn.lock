@@ -1391,10 +1391,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-portable-text@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/react-portable-text/-/react-portable-text-0.4.0.tgz#3d9dc476efae18a600ae63f98ffbe22dd9a44535"
-  integrity sha512-qjXvCn6T8r4fMfcVS9+scT/Dvyys9l9Pt4xY1NGsN9GAVbLj4EFaGaJ/qTC+bXgt3WzkKH43I1Dm0jhIx8Htyg==
+react-portable-text@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/react-portable-text/-/react-portable-text-0.4.3.tgz#d2794a5db9c0bb18e72949fec1c91781fda35508"
+  integrity sha512-r//xYac1Bf5GMk3eKZiDpoRtt0N/W6kEAkI+zw148JGAdr2IW9MvhT/giOYop0KCuiyECry1yonhomFFbHeMAw==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.0"
 
