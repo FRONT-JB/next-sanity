@@ -9,7 +9,6 @@ const Header = () => {
           <img src='/logo.svg' alt='' />
         </Link>
       </Logo>
-      <Link href='/post'>Post</Link>
     </Container>
   );
 };
